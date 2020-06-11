@@ -1,0 +1,98 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../img/main.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  #mediaisk073le11inlineContent {
+    height: auto;
+    width: 100%;
+    position: relative;
+}
+
+#mediaisk073le11inlineContent-gridWrapper {
+    pointer-events: none;
+}
+
+#mediaisk073le11inlineContent-gridContainer {
+    position: static;
+    display: grid;
+    height: auto;
+    width: 100%;
+    min-height: 293px;
+    grid-template-rows: min-content 1fr;
+    grid-template-columns: 100%;
+}
+
+#comp-ikmprc7h {
+    position: relative;
+    margin: 102px 0px 27px calc((100% - 980px) * 0.5);
+    left: -20px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-ikmpsgl3 {
+    position: relative;
+    margin: 0px 0px 10px calc((100% - 980px) * 0.5);
+    left: -20px;
+    grid-area: 2 / 1 / 3 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-ikmpq5mi {
+    position: relative;
+    margin: 102px 0px 27px calc((100% - 980px) * 0.5);
+    left: 338px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-ikmpypew {
+    position: relative;
+    margin: 0px 0px 10px calc((100% - 980px) * 0.5);
+    left: 338px;
+    grid-area: 2 / 1 / 3 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-ikmpqrsk {
+    position: relative;
+    margin: 102px 0px 27px calc((100% - 980px) * 0.5);
+    left: 680px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-ikmpzspn {
+    position: relative;
+    margin: 0px 0px 10px calc((100% - 980px) * 0.5);
+    left: 680px;
+    grid-area: 2 / 1 / 3 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#mediaisk073le11centeredContent {
+    position: relative;
+}
+
+#mediaisk073le11inlineContent-gridContainer > * {
+    pointer-events: auto;
+}
+
+#mediaisk073le11inlineContent-gridContainer > [id$="-rotated-wrapper"] {
+    pointer-events: none;
+}
+
+#mediaisk073le11inlineContent-gridContainer > [id$="-rotated-wrapper"] > * {
+    pointer-events: auto;
+}
